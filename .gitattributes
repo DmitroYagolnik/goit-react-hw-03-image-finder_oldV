@@ -1,0 +1,4 @@
+# Конвертує закінчення в документах в "lf"
+*.jsx text eol=lf
+*.css text eol=lf
+*.html text eol=lf
